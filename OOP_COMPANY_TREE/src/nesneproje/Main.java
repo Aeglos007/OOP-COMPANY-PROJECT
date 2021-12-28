@@ -8,7 +8,6 @@ import java.io.IOException;
 
 /**
  *
- * @author Ergun Deniz Buyruk
  */
 public class Main {
 

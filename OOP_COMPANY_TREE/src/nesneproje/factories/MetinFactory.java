@@ -12,7 +12,6 @@ import nesneproje.Classes.Singleton;
 
 /**
  *
- * @author Ergun Deniz Buyruk
  */
 public class MetinFactory extends AbstractFactory {
     

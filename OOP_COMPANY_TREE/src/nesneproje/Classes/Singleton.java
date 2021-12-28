@@ -4,7 +4,6 @@ import nesneproje.Classes.Direktor;
 
 /**
  *
- * @author Ergun Deniz Buyruk
  */
 
 /*

@@ -4,7 +4,6 @@ import nesneproje.collections.MyCalisanList;
 
 /**
  *
- * @author Ergun Deniz Buyruk
  */
 public class Direktor extends Calisan {
 

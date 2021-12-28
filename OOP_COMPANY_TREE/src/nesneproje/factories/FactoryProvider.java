@@ -2,7 +2,6 @@ package nesneproje.factories;
 
 /**
  *
- * @author Ergun Deniz Buyruk
  */
 
 /*

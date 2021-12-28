@@ -9,7 +9,6 @@ import nesneproje.Classes.Calisan;
 
 /**
  *
- * @author Ergun Deniz Buyruk
  */
 public interface MyIterator {
 

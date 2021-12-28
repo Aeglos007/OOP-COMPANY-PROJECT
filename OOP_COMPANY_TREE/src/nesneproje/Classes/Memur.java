@@ -2,7 +2,6 @@ package nesneproje.Classes;
 
 /**
  *
- * @author Ergun Deniz Buyruk
  */
 public class Memur extends Calisan{
 
